@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "nombre": "Jeff Bezos",
+        "plata": "$177.000.000.000",
+        "edad": "57"
+    },
+    {
+        "id":2,
+        "nombre": "Elon Musk",
+        "plata": "$151.000.000.000",
+        "edad": "49"
+    },
+    {
+        "id":3,
+        "nombre": "Bernard Arnault",
+        "plata": "$150.000.000.000",
+        "edad": "72"
+    },
+    {
+        "id":4,
+        "nombre": "Bill Gates",
+        "plata": "$124.000.000.000",
+        "edad": "65"
+    },
+    {
+        "id":5,
+        "nombre": "Mark Zuckerberg",
+        "plata": "$97.000.000.000",
+        "edad": "36"
+    },
+    {
+        "id":6,
+        "nombre": "Warren Buffett",
+        "plata": "$96.000.000.000",
+        "edad": "90"
+    },
+    {
+        "id":7,
+        "nombre": "Larry Ellison",
+        "plata": "$93.000.000.000",
+        "edad": "76"
+    },
+    {
+        "id":8,
+        "nombre": "Larry Page",
+        "plata": "$91.500.000.000",
+        "edad": "48"
+    },
+    {
+        "id":9,
+        "nombre": "Sergey Brin",
+        "plata": "$89.000.000.000",
+        "edad": "47"
+    },
+    {
+        "id":10,
+        "nombre": "Mukesh Ambani",
+        "plata": "$84.500.000.000",
+        "edad": "63"
+    }
+]

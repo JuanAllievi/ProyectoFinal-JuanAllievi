@@ -1,0 +1,153 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+  background-image: url(./img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.titulo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#container {
+  margin-bottom: 30px;
+  margin-left: 300px;
+  margin-right: 200px;
+}
+#bezos{
+  width: 190px;
+  border-radius: 450px;
+}
+.cargar {
+  width: auto;
+}
+.card img{
+  width: 230px; 
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.cart {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background: #ffffff;
+}
+.car-img {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+.producto-carrito {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.product-details {
+  font-weight: bold;
+}
+.finalizar {
+  width: 20%;
+}
+#remove-product {
+  width: 100px;
+  height: 60px;
+  text-align: center;
+}
+.total-carrito {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.total {
+  font-weight: bold;
+  font-size: 1.2rem;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  background: #0d8013;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.compra-finalizada {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  margin-top: 50px;
+  color: white;
+  background: #474f90;
+}
+.compra-parrafo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 20px;
+  border: 1px, solid, black !important;
+  border-radius: 15px;
+}
+.datos-cliente {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.datos-parrafo {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.contact__secction__item {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+.contact-button {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+}
+.envio {
+  margin-top: 15px;
+}
+.mensaje-final {
+  font-weight: bold;
+  font-size: 1.3rem;
+  padding: 20px;
+  border: 1px, solid, black;
+  border-radius: 15px;
+  margin: 20px;
+  text-align: center;
+}
+.contact__secction-container{
+  background-color: black;
+  border-radius: 15px;
+  padding: 30px;
+  color: white;
+}
+.button-center{
+  display: flex;
+  justify-content: center;
+}
+#importarJson{
+  border: 1px solid rgb(18, 114, 15);
+  background-color: rgb(18, 114, 15);
+  padding: 6px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+#importarJson:hover{
+  color: white;
+  transition: 1s;
+  cursor: pointer;
+  border: 1px solid rgb(0, 0, 0);
+}
+#personas{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  width: 100vh;
+}
+#personas td{
+  margin-top: 70px;
+}
